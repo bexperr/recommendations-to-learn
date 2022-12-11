@@ -1,4 +1,4 @@
-# YOTUBE
+# YOUTUBE
 Canales recomendados para aprender en Youtube.
 
  -  [freeCodeCamp Español (PlayList)](https://www.youtube.com/watch?v=QCw0L6FupQ0&list=PL4ONm-ifcbQJ7zDmC2WR_vidFPmxDLraL)
